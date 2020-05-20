@@ -1,0 +1,66 @@
+body
+{
+    background: rgb(81, 81, 165);
+     color:#ffffff;
+    
+    margin-left: 100px;
+    margin-right: 223px;
+
+}
+
+header
+{
+    margin-top: 33px;
+}
+
+h1
+{
+    color:whitesmoke;
+    font-family: monospace;
+}
+
+p
+{
+    font-size: 18px;
+}
+
+footer
+{
+    margin-top: 150px;
+    margin-bottom: 55px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+section
+{
+    margin-top: 55px;
+}
+
+div
+{
+    margin-bottom: 30px;
+}
+
+/* pesquisar opções para deixar o menu em linha 
+nav 
+{
+    display: inline;
+}
+*/
+
+/*Teste HTML e CSS FUNCIONAL
+Daniel
+{
+    color: Blue;
+}
+Victor
+{
+    color:yellow;
+}
+*/
+
+.img_padrao
+{
+    width:130px;
+}
